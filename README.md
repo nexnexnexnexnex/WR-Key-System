@@ -1,2 +1,2 @@
 # WR-Key-System
-Easy to use key system for Roblox exploit scripts developers
+Easy to use key system for Roblox exploit script developers
