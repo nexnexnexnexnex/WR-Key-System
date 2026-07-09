@@ -19,7 +19,7 @@ Add these to your script:
 
 ```WR:SetKeyLinks({"www.keylink1.com", "www.keylink2.com"}) -- add your key links. Can be set to a string saying that the key can't be acquired through a link, or that the key is paid, etc. (This must be set to something, or the UI won't load at all)```
 
-``` WR:SetValidKeys({ [KeyName] = boolean }) -- Add your valid keys. The boolean must always be set. Set the bool to true.```
+```WR:SetValidKeys({ [KeyName] = boolean }) -- Add your valid keys. The boolean must always be set. Set the bool to true.```
 
 ## Step 3: BindableEvents
 Out of the box, WR comes with 5 BindableEvents:
