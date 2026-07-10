@@ -2,6 +2,4 @@
 Easy to use key system for Roblox exploit script developers
 
 # Please do not use this, yet
-This is the first version of WR, and all key verification currently happens on the client, so basically a 5 year old with 2 braincells can bypass the UI. The key verification system will be rewritten and moved to a backend server soon
-
-Not open source, because users will most likely find a way to bypass it, sorry :(
+This is not a safe library to use, **yet**. Currently, it only has client-sided key validation and some nice UI, but it's not made very well, and anybody can easily fire the `OnKeyValid`. Key validation systems will be rewritten and moved to an external server soon
